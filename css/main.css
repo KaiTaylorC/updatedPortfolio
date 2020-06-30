@@ -55,7 +55,7 @@
     .menu-branding .portrait {
       width: 250px;
       height: 250px;
-      background: url(/img/portrait.jpg);
+      background: url(./img/portrait.jpg);
       border-radius: 50%;
       border: solid 3px #eece1a;
       background-size: cover; }
@@ -102,7 +102,7 @@ body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1.5; }
   body#bg-img {
-    background: url(/img/background.jpg);
+    background: url(./img/background.jpg);
     background-attachment: fixed;
     background-size: cover; }
     body#bg-img .overlay {
@@ -269,7 +269,7 @@ main {
     height: 35vh;
     transform: translate3d(100%, 0, 0); }
     .menu-branding .portait {
-      background: url(/img/portrait-small.jpg);
+      background: url(./img/portrait-small.jpg);
       width: 150px;
       height: 150px; }
   .about-info {
